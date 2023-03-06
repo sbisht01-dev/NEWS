@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    width: 100vw;
+    height: 3rem;
+    background-color: red;
+}
+
+.top-news{
+
+}
+
+.img{
+    padding: 20px;
+}
+
+img{
+    height: 100%;
+    width: 100%;
+    border-radius: 20px;
+}
+
+.media-scroll{
+    
+    background-color: red;
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns: 100%;
+}
